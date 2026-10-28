@@ -10,7 +10,7 @@ locale: "en-US"
 title: "My Project Blog"
 description: "Updates and notes on my projects."
 url: "https://clarakuo.github.io"
-baseurl: "/clarakuo.github.io"
+baseurl: ""
 
 # makes tags clickable
 tag_archive_path: "/tags/#"
